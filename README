@@ -1,4 +1,6 @@
-Lurion
+Lurion Arand
+
+
 
 # Django-Spotnet
 
@@ -38,21 +40,4 @@ When you're ready, sync and update your database.
     $ python manage.py update_spotnet
 
 You're good to go!
-
-
-## Documentation
-
-Read the docs at http://readthedocs.org/docs/django-spotnet/en/latest/
-
-
-## Development
-
-The main development version is hosted at bitbucket (https://bitbucket.org/Blue/django-spotnet), but there's a maintained copy over at github (https://github.com/AJHMvR/django-spotnet).
-CI server is running at Travis CI (http://travis-ci.org/#!/AJHMvR/django-spotnet),
-it's current status is https://secure.travis-ci.org/AJHMvR/django-spotnet.png.
-
-
-## License
-
-See LICENSE file.
 
